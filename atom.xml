@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-16T06:42:24.222Z</updated>
+  <updated>2018-10-18T20:36:28.076Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,24 +20,25 @@
     <title>个人网站--老站</title>
     <link href="http://yoursite.com/2018/10/15/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%E8%80%81%E7%AB%99/"/>
     <id>http://yoursite.com/2018/10/15/个人网站-老站/</id>
-    <published>2018-10-15T18:39:46.000Z</published>
-    <updated>2018-10-16T06:42:24.222Z</updated>
+    <published>2018-10-15T06:39:00.000Z</published>
+    <updated>2018-10-18T20:36:28.076Z</updated>
     
-    <content type="html"><![CDATA[<p><br></p><ul><li>个人网站（已废弃）:<a href="http://dakuange.github.io/index.html" target="_blank" rel="noopener">http://dakuange.github.io/index.html</a><br><br></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><br><br>大家好这是我的新搭建的个人博客网站，欢迎大家多多访问，我也会尽量及时更新博客。</p><p>下面这个网站是以前的个人主页，现在已经不再维护啦。</p><ul><li>个人网站（已废弃）:<a href="http://dakuange.github.io/index.html" target="_blank" rel="noopener">http://dakuange.github.io/index.html</a><br><br></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;br&gt;大家好这是我的新搭建的个人博客网站，欢迎大家多多访问，我也会尽量及时更新博客。&lt;/p&gt;
+&lt;p&gt;下面这个网站是以前的个人主页，现在已经不再维护啦。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;个人网站（已废弃）:&lt;a href=&quot;http://dakuange.github.io/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://dakuange.github.io/index
+&lt;li&gt;个人网站（已废弃）:&lt;a href=&quot;http://dakuange.github.i
       
     
     </summary>
     
     
-      <category term="about" scheme="http://yoursite.com/tags/about/"/>
+      <category term="oldsite" scheme="http://yoursite.com/tags/oldsite/"/>
     
   </entry>
   
