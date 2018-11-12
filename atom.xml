@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-18T21:02:54.756Z</updated>
+  <updated>2018-11-12T02:12:37.773Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AWS 餐厅智能推荐机器人</title>
+    <link href="http://yoursite.com/2018/11/10/Google-File-System-%E9%98%85%E8%AF%BB/"/>
+    <id>http://yoursite.com/2018/11/10/Google-File-System-阅读/</id>
+    <published>2018-11-10T21:04:00.000Z</published>
+    <updated>2018-11-12T02:12:37.773Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hi, 这两天和其他小伙伴一起完成了一个小项目</p><p>项目网址：<br><a href="https://weiwang.auth.us-west-2.amazoncognito.com/logiresponse_type=token&amp;client_id=7i2i8gn6el0pb1vuqr4d3tduod&amp;redirect_uri=https://s3-us-west-" target="_blank" rel="noopener">https://weiwang.auth.us-west-2.amazoncognito.com/logiresponse_type=token&amp;client_id=7i2i8gn6el0pb1vuqr4d3tduod&amp;redirect_uri=https://s3-us-west-</a> 2.amazonaws.com/chatbotresource/views/index2.html</p><p>• 基于 AWS 服务，使用 S3 托管网站，Cognito 用户验证与授权，API Gateway 权限控制，AWS Lex 智能交互获取用户需求，Lambda 使用 AWS SQS 消息队列通信，Cloud Watch 定时处理 SQS 队列 信息，通过 Yelp API 获取推荐餐厅信息，数据存储在 DynamoDB，最后 AWS SNS 发送推荐短信 给用户</p><p>• 主要使用 AWS/Python/Java/Node.js</p><p>具体结构如下：</p><p><img src="/images/pasted-0.png" alt="upload successful"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hi, 这两天和其他小伙伴一起完成了一个小项目&lt;/p&gt;
+&lt;p&gt;项目网址：&lt;br&gt;&lt;a href=&quot;https://weiwang.auth.us-west-2.amazoncognito.com/logiresponse_type=token&amp;amp;client_id=7
+      
+    
+    </summary>
+    
+      <category term="study" scheme="http://yoursite.com/categories/study/"/>
+    
+    
+      <category term="AWS" scheme="http://yoursite.com/tags/AWS/"/>
+    
+  </entry>
   
   <entry>
     <title>第一个博客</title>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[AWS 餐厅智能推荐机器人]]></title>
+    <url>%2F2018%2F11%2F10%2FGoogle-File-System-%E9%98%85%E8%AF%BB%2F</url>
+    <content type="text"><![CDATA[Hi, 这两天和其他小伙伴一起完成了一个小项目 项目网址：https://weiwang.auth.us-west-2.amazoncognito.com/logiresponse_type=token&amp;client_id=7i2i8gn6el0pb1vuqr4d3tduod&amp;redirect_uri=https://s3-us-west- 2.amazonaws.com/chatbotresource/views/index2.html • 基于 AWS 服务，使用 S3 托管网站，Cognito 用户验证与授权，API Gateway 权限控制，AWS Lex 智能交互获取用户需求，Lambda 使用 AWS SQS 消息队列通信，Cloud Watch 定时处理 SQS 队列 信息，通过 Yelp API 获取推荐餐厅信息，数据存储在 DynamoDB，最后 AWS SNS 发送推荐短信 给用户 • 主要使用 AWS/Python/Java/Node.js 具体结构如下：]]></content>
+      <categories>
+        <category>study</category>
+      </categories>
+      <tags>
+        <tag>AWS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[第一个博客]]></title>
     <url>%2F2018%2F10%2F15%2F%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[大家好这是我的新搭建的个人博客网站，欢迎大家多多访问，我也会尽量及时更新博客。 下面这个网站是以前的个人主页，现在已经不再维护啦。 个人网站（已废弃）:http://dakuange.github.io/index.html]]></content>
