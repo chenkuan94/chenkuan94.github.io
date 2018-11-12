@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[简历]]></title>
-    <url>%2F2018%2F11%2F11%2F%E7%AE%80%E5%8E%86%2F</url>
-    <content type="text"><![CDATA[个人简历]]></content>
+    <title></title>
+    <url>%2F2018%2F11%2F10%2F%E7%AE%80%E5%8E%86%2F</url>
+    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[AWS 餐厅智能推荐机器人]]></title>
     <url>%2F2018%2F11%2F10%2FGoogle-File-System-%E9%98%85%E8%AF%BB%2F</url>
-    <content type="text"><![CDATA[Hi, 这两天和其他小伙伴一起完成了一个小项目 项目网址：https://weiwang.auth.us-west-2.amazoncognito.com/logiresponse_type=token&amp;client_id=7i2i8gn6el0pb1vuqr4d3tduod&amp;redirect_uri=https://s3-us-west- 2.amazonaws.com/chatbotresource/views/index2.html • 基于 AWS 服务，使用 S3 托管网站，Cognito 用户验证与授权，API Gateway 权限控制，AWS Lex 智能交互获取用户需求，Lambda 使用 AWS SQS 消息队列通信，Cloud Watch 定时处理 SQS 队列 信息，通过 Yelp API 获取推荐餐厅信息，数据存储在 DynamoDB，最后 AWS SNS 发送推荐短信 给用户 • 主要使用 AWS/Python/Java/Node.js 具体结构如下：]]></content>
+    <content type="text"><![CDATA[Hi, 这两天和其他小伙伴一起完成了一个小项目 项目网址：https://weiwang.auth.us-west-2.amazoncognito.com/login?response_type=token&amp;client_id=7i2i8gn6el0pb1vuqr4d3tduod&amp;redirect_uri=https://s3-us-west-2.amazonaws.com/chatbotresource/views/index2.html • 基于 AWS 服务，使用 S3 托管网站，Cognito 用户验证与授权，API Gateway 权限控制，AWS Lex 智能交互获取用户需求，Lambda 使用 AWS SQS 消息队列通信，Cloud Watch 定时处理 SQS 队列 信息，通过 Yelp API 获取推荐餐厅信息，数据存储在 DynamoDB，最后 AWS SNS 发送推荐短信 给用户 • 主要使用 AWS/Python/Java/Node.js 具体结构如下：]]></content>
       <categories>
         <category>study</category>
       </categories>
