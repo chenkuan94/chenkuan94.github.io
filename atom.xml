@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-12T02:12:37.773Z</updated>
+  <updated>2018-11-12T02:20:44.333Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简历</title>
+    <link href="http://yoursite.com/2018/11/11/%E7%AE%80%E5%8E%86/"/>
+    <id>http://yoursite.com/2018/11/11/简历/</id>
+    <published>2018-11-11T13:17:24.000Z</published>
+    <updated>2018-11-12T02:20:44.333Z</updated>
+    
+    <content type="html"><![CDATA[<p>个人简历</p><p><img src="/images/pasted-2.png" alt="upload successful"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;个人简历&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pasted-2.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>AWS 餐厅智能推荐机器人</title>
